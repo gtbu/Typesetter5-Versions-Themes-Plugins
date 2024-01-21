@@ -30,6 +30,8 @@
 
 <a href=https://github.com/gtbu/CustomSections-23 target=_blank> Custom sections</a> - a fork of JUEK
 
+<a href=https://github.com/gtbu/AddScriptPluginTypesetter target=_blank> AddScript-Plugin </a> a fork of JUEK-Catalin
+
 <a href=https://github.com/gtbu/TinyPNG  target=_blank> Tinypng</a> - a png-minimizer 
 
 <a href=https://github.com/gtbu/Typesetter-Breadcrumb target=_blank> Typesetter breadcrumb </a> - fork of Sestolab
