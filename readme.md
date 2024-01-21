@@ -1,10 +1,10 @@
 *** <b>Overview over Typesetter-CMS - versions and Themes and plugins </b>***
 
-<a href=https://github.com/gtbu/Typesetter5.1.1-CE target=_blank>Typesetter 5.1.1 </a> - updated and advanced fork of version 5.1 (for php 7.0 to 7.4)
+<a href=https://github.com/gtbu/Typesetter5.1.1-CE target=_blank>Typesetter 5.1.1 </a> - updated and advanced fork of version 5.1 (for php 7.0 to 7.4) - with jquery 1.12
 
-<a href=https://github.com/gtbu/Typesetter5.2 target=_blank> Typesetter 5.2  </a> - updated and advanced version of Typesetter 5.2 beta (for php 7.3 and 7.4 only)
+<a href=https://github.com/gtbu/Typesetter5.2 target=_blank> Typesetter 5.2  </a> - updated and advanced version of Typesetter 5.2 beta (for php 7.3 and 7.4 only) - with jquery 2.24
 
-<a href=https://github.com/gtbu/Typesetter-5.3-p8 target=_blank>Typesetter 5.3 </a> - updated and advanced version of Typesetter 5.2 (for php 8.0 to 8.3)
+<a href=https://github.com/gtbu/Typesetter-5.3-p8 target=_blank>Typesetter 5.3 </a> - updated and advanced version of Typesetter 5.2 (for php 8.0 to 8.3) - with jquery 3.6x
 
 -------------------------------
 <a href=https://github.com/gtbu/Ckeditor-4-Typesetter target=_blank> Ckeditor 4 </a> - a repository with old ckeditor-versions for Typesetter CMS
