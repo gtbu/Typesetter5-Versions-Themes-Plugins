@@ -11,6 +11,9 @@
 
 <a href=https://github.com/gtbu/ckeditor4-api target=_blank> Ckeditor 4 - Api</a> - extension from <a href=https://github.com/gtbu/ckeditor4-plugins-ak target=_blank>Akilli</a>
 
+<a href=https://github.com/gtbu/ckeditor-fa42  target=_blank> Font - Awesome 6 for Ckeditor 4 </a> 
+
+
 <a href=https://github.com/gtbu/Typesetter-Plugins target=_blank> Plugins</a> for Typesetter 5.2 and 5.3
 
 <a href=https://github.com/gtbu/Typesetter-Templates target=_blank> Themes</a> for Typesetter 5.2 and 5.3
