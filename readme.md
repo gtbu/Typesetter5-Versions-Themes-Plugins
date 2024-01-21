@@ -24,6 +24,8 @@
 -------------------------------
 <a href=https://github.com/gtbu/Special-Contact-Form target=_blank> Special Contact form</a> 
 
+<a href=https://github.com/gtbu/Password_protected_pages target=_blank> Password protected pages</a>
+
 <a href=https://github.com/gtbu/Simple-Blog-3.06 target=_Blank> Simple Blog </a> - a fork of JUEK
 
 <a href=https://github.com/gtbu/CustomSections-23 target=_blank> Custom sections</a> - a fork of JUEK
