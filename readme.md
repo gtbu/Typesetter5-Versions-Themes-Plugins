@@ -13,7 +13,7 @@
 
 <a href=https://github.com/gtbu/ckeditor-fa42  target=_blank> Font - Awesome 6 for Ckeditor 4 </a> 
 
-<a href=https://github.com/mahotilo/CKE_Themes target=_blank> Ckeditor-Themes</a>  - a fork of Maholito
+<a href=https://github.com/gtbu/CKE_Themes target=_blank> Ckeditor-Themes</a>  - a fork of Maholito
 
 <a href="https://github.com/gtbu?tab=repositories&q=ckeditor&type=&language=&sort=" target=_blank>.... other Ckeditor-Plugins</a>
 
