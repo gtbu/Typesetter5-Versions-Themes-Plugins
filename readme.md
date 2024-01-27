@@ -23,6 +23,8 @@
 
 <a href=https://github.com/gtbu/Typesetter-Templates target=_blank> Themes</a> for Typesetter 5.2 and 5.3
 
+<a href=https://github.com/gtbu/Online-Plugins target=_blank> Online-plugins (temporary)
+
 -------------------------------
 <a href=https://github.com/gtbu/Special-Contact-Form target=_blank> Special Contact form</a> 
 
