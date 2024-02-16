@@ -47,3 +47,5 @@
 <a href=https://github.com/gtbu/Catalog-Easy target=_blank> Catalog easy</a>  - a fork of <a href=http://mhdev.bplaced.net/ target=_blank> Maholito </a>
 
 <a href=https://github.com/gtbu/CS.mh_Cached_Image target=_blank> Cached Image</a>   - a fork of Maholito
+
+<a href="https://github.com/a2exfr?tab=repositories&q=typesetter&type=&language=&sort=" target=_blank> Some Plugins of Alexfr</a>
