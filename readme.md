@@ -49,3 +49,6 @@
 <a href=https://github.com/gtbu/CS.mh_Cached_Image target=_blank> Cached Image</a>   - a fork of Maholito
 
 <a href="https://github.com/a2exfr?tab=repositories&q=typesetter&type=&language=&sort=" target=_blank> Some Plugins of Alexfr</a>
+
+---------------------------------------------------------------
+<em>If You have a new plugin, please post it at github so that i can add it to the list !</em>
