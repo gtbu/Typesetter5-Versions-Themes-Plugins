@@ -23,6 +23,8 @@
 
 <a href=https://github.com/gtbu/Typesetter-Templates target=_blank> Themes</a> for Typesetter 5.2 and 5.3
 
+<a href=https://github.com/gtbu/cpCircles target=_blank> cpCircles  - Theme </a>
+
 <a href=https://github.com/gtbu/Online-Plugins target=_blank> Online-plugins (temporary)
 
 <a href=https://github.com/gtbu/Online-Themes  target=_blank> Online-Themes (temporary)
@@ -51,4 +53,6 @@
 <a href="https://github.com/a2exfr?tab=repositories&q=typesetter&type=&language=&sort=" target=_blank> Some Plugins of Alexfr</a>
 
 ---------------------------------------------------------------
-<em>If You have a new plugin, please post it at github so that i can add it to the list !</em>
+* Documentation is in the top-line of a repo under 'WIKI' (if Wiki exists)
+
+* <em>If You have a new plugin, please post it at github so that i can add it to the list !</em>
