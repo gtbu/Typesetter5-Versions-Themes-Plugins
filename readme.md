@@ -6,6 +6,7 @@
 
 <a href=https://github.com/gtbu/Typesetter-5.3-p8 target=_blank>Typesetter 5.3 </a> - updated and advanced version of Typesetter 5.2 (for php 8.0 to 8.3) - with jquery 3.6x
 
+Documentation in the Wiki-Menupoint of the site !
 -------------------------------
 <a href=https://github.com/gtbu/Ckeditor-4-Typesetter target=_blank> Ckeditor 4 </a> - a repository with old ckeditor-versions for Typesetter CMS
 
