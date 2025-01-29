@@ -1,14 +1,14 @@
-*** <b>Overview over Typesetter-CMS - versions and Themes and plugins </b>***
+<h4> == Overview over Typesetter-CMS - versions and Themes and plugins == </h4>
 
-<a href=https://github.com/gtbu/Typesetter5.1.1-CE target=_blank>Typesetter 5.1.1 </a> - updated and advanced fork of version 5.1 (for php 7.0 to 7.4) - with jquery 1.12
+<a href=https://github.com/gtbu/Typesetter5.1.1-CE target=_blank>Typesetter 5.1.1 </a> - updated and advanced fork of version 5.1 (for php 7.0 to 7.4) - with jquery 1.12 (archived)
 
 <a href=https://github.com/gtbu/Typesetter5.2 target=_blank> Typesetter 5.2  </a> - updated and advanced version of Typesetter 5.2 beta (for php 7.3 and 7.4 only) - with jquery 2.24
 
 <a href=https://github.com/gtbu/Typesetter-5.3-p8 target=_blank>Typesetter 5.3 </a> - updated and advanced version of Typesetter 5.2 (for php 8.0 to 8.3) - with jquery 3.6x
+<hr size=1> 
+<h4> == Ckeditor and plugins == </h4>
 
-Ckeditor and plugins
--------------------------------
-<a href=https://github.com/gtbu/Ckeditor-4-Typesetter target=_blank> Ckeditor 4 </a> - a repository with old ckeditor-versions for Typesetter CMS
+<a href=https://github.com/gtbu/Ckeditor-4-Typesetter target=_blank> Ckeditor 4 </a> - a repository with older ckeditor-versions for Typesetter CMS and help 
 
 <a href=https://github.com/gtbu/ckeditor4-api target=_blank> Ckeditor 4 - Api</a> - extension from <a href=https://github.com/gtbu/ckeditor4-plugins-ak target=_blank>Akilli</a>
 
@@ -18,7 +18,7 @@ Ckeditor and plugins
 
 <a href="https://github.com/gtbu?tab=repositories&q=ckeditor&type=&language=&sort=" target=_blank>.... other Ckeditor-Plugins</a>
 
-------------------------------
+<hr size=1> 
 
 <a href=https://github.com/gtbu/Typesetter-Plugins target=_blank> Plugins</a> for Typesetter 5.2 and 5.3
 
@@ -30,7 +30,7 @@ Ckeditor and plugins
 
 <a href=https://github.com/gtbu/Online-Themes  target=_blank> Online-Themes (old repo)
 
--------------------------------
+<hr size=1> 
 <a href=https://github.com/gtbu/Special-Contact-Form target=_blank> Special Contact form</a> 
 
 <a href=https://github.com/gtbu/Password_protected_pages target=_blank> Password protected pages</a>
@@ -52,8 +52,7 @@ Ckeditor and plugins
 <a href=https://github.com/gtbu/CS.mh_Cached_Image target=_blank> Cached Image</a>   - a fork of Maholito
 
 <a href="https://github.com/a2exfr?tab=repositories&q=typesetter&type=&language=&sort=" target=_blank> Some Plugins of Alexfr</a>
-
----------------------------------------------------------------
+<hr size=1> 
 * Documentation is in the top-line of a repo under 'WIKI' (if Wiki exists)
 
 * <em>If You have a new plugin, please post it at github so that i can add it to the list !</em>
