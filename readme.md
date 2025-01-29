@@ -26,9 +26,9 @@ Documentation in the Wiki-Menupoint of the site !
 
 <a href=https://github.com/gtbu/cpCircles target=_blank> cpCircles  - Theme </a>
 
-<a href=https://github.com/gtbu/Online-Plugins target=_blank> Online-plugins (temporary)
+<a href=https://github.com/gtbu/Online-Plugins target=_blank> Online-plugins (old repo)
 
-<a href=https://github.com/gtbu/Online-Themes  target=_blank> Online-Themes (temporary)
+<a href=https://github.com/gtbu/Online-Themes  target=_blank> Online-Themes (old repo)
 
 -------------------------------
 <a href=https://github.com/gtbu/Special-Contact-Form target=_blank> Special Contact form</a> 
