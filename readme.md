@@ -22,7 +22,7 @@
 
 <a href=https://github.com/gtbu/Typesetter5-Plugins target=_blank> Plugins</a> for Typesetter 5.2 and 5.3
 
-<a href=https://github.com/gtbu/Typesetter5-Templates target=_blank> Themes</a> for Typesetter 5.2 and 5.3
+<a href=https://github.com/gtbu/Typesetter5-Themes target=_blank> Themes</a> for Typesetter 5.2 and 5.3
 
 <a href=https://github.com/gtbu/cpCircles target=_blank> cpCircles  - Theme </a>
 
