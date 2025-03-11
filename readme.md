@@ -8,7 +8,7 @@
 <hr size=1> 
 <h4> == Ckeditor and plugins == </h4>
 
-<a href=https://github.com/gtbu/Ckeditor-4-Typesetter target=_blank> Ckeditor 4 </a> - a repository with older ckeditor-versions for Typesetter CMS and help 
+<a href=https://github.com/gtbu/Ckeditor-4-Typesetter target=_blank> Ckeditor 4 </a> - a repository with older ckeditor-versions for Typesetter CMS and plugins and help 
 
 <a href=https://github.com/gtbu/ckeditor4-api target=_blank> Ckeditor 4 - Api</a> - extension from <a href=https://github.com/gtbu/ckeditor4-plugins-ak target=_blank>Akilli</a>
 
