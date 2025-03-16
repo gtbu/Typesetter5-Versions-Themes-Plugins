@@ -16,7 +16,7 @@
 
 <a href=https://github.com/gtbu/CKE_Themes target=_blank> Ckeditor-Themes</a>  - a fork of Maholito
 
-<a href="https://github.com/gtbu?tab=repositories&q=ckeditor&type=&language=&sort=" target=_blank>.... other Ckeditor-Plugins</a>
+<a href="https://github.com/gtbu?tab=repositories&q=ckeditor&type=&language=&sort=" target=_blank>More Ckeditor-Plugins</a>
 
 <hr size=1> 
 
