@@ -16,7 +16,7 @@
 
 <a href=https://github.com/gtbu/CKE_Themes target=_blank> Ckeditor-Themes</a>  - a fork of Maholito (since TP 5.3.1 integrated Theme-Switch)
 
-<a href=https://github.com/gtbu/n1ed-ckeditor> Ckeditor N1ED</a> ( also at <a href=https://pluginza.com/ckeditor4-plugins> Pluginza</a> )
+<a href=https://github.com/gtbu/n1ed-ckeditor> Ckeditor N1ED</a> ( also at <a href=https://pluginza.com/ckeditor4-plugins> Pluginza</a> )  - needs adaption
 
 <a href="https://github.com/gtbu?tab=repositories&q=ckeditor&type=&language=&sort=" target=_blank>More Ckeditor-Plugins</a>(not tested with Typesetter CMS)
 
