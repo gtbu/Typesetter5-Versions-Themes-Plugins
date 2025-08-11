@@ -14,7 +14,7 @@
 
 <a href=https://github.com/gtbu/ckeditor-fa42  target=_blank> Font - Awesome 6 for Ckeditor 4 </a> 
 
-<a href=https://github.com/gtbu/CKE_Themes target=_blank> Ckeditor-Themes</a>  - a fork of Maholito
+<a href=https://github.com/gtbu/CKE_Themes target=_blank> Ckeditor-Themes</a>  - a fork of Maholito (since TP 5.3.1 integrated Theme-Switch)
 
 <a href=https://github.com/gtbu/n1ed-ckeditor> Ckeditor N1ED</a> ( also at <a href=https://pluginza.com/ckeditor4-plugins> Pluginza</a> )
 
