@@ -4,7 +4,7 @@
 
 <a href=https://github.com/gtbu/Typesetter5.2 target=_blank> Typesetter 5.2  </a> - updated and advanced version of Typesetter 5.2 beta (for php 7.3 and 7.4 only) - with jquery 2.24
 
-<a href=https://github.com/gtbu/Typesetter-5.3-p8 target=_blank>Typesetter 5.3 </a> - updated and advanced version of Typesetter 5.2 (for php 8.0 to 8.3) - with jquery 3.6x
+<a href=https://github.com/gtbu/typesetter-5.3-p8 target=_blank>Typesetter 5.3 </a> - updated and advanced version of Typesetter 5.2 (for php 8.0 to 8.3) - with jquery 3.6x
 <hr size=1> 
 <h4> == Ckeditor and plugins == </h4>
 
