@@ -40,9 +40,11 @@
 
 <a href=https://github.com/gtbu/Simple-Blog-3.06 target=_Blank> Simple Blog </a> - a fork of JUEK
 
-<a href=https://github.com/gtbu/CustomSections-23 target=_blank> Custom sections</a> - a fork of JUEK
+<a href=https://github.com/gtbu/CustomSections-23 target=_blank> Custom sections</a> - a fork of JUEK and Maholito
 
-<a href=https://github.com/gtbu/AddScriptPluginTypesetter target=_blank> AddScript-Plugin </a> a fork of JUEK-Catalin
+<a href=https://github.com/gtbu/OtherPageLangs-25 target=_blank> OtherPageLangs</a> - a fork of JUEK
+
+<a href=https://github.com/gtbu/AddScriptPluginTypesetter target=_blank> AddScript-Plugin </a> a fork of JUEK and Catalin
 
 <a href=https://github.com/gtbu/TinyPNG  target=_blank> Tinypng</a> - a png-minimizer 
 
@@ -52,7 +54,7 @@
 
 <a href=https://github.com/gtbu/Catalog-Easy target=_blank> Catalog easy</a>  - a fork of <a href=http://mhdev.bplaced.net/ target=_blank> Maholito </a>
 
-<a href=https://github.com/gtbu/CS.mh_Cached_Image target=_blank> Cached Image</a>   - a fork of Maholito
+<a href=https://github.com/gtbu/CS.mh_Cached_Image target=_blank> Cached Image</a>  - a fork of Maholito
 
 <a href="https://github.com/a2exfr?tab=repositories&q=typesetter&type=&language=&sort=" target=_blank> Some Plugins of Alexfr</a>
 <hr size=1> 
