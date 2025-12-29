@@ -44,6 +44,8 @@
 
 <a href=https://github.com/gtbu/OtherPageLangs-25 target=_blank> OtherPageLangs</a> - a fork of JUEK
 
+<a href=https://github.com/gtbu/URLTranslit target=_blank> URLTranslit</a> - a fork of JUEK and Maholito
+
 <a href=https://github.com/gtbu/AddScriptPluginTypesetter target=_blank> AddScript-Plugin </a> a fork of JUEK and Catalin
 
 <a href=https://github.com/gtbu/TinyPNG  target=_blank> Tinypng</a> - a png-minimizer 
