@@ -42,7 +42,7 @@
 
 <a href=https://github.com/gtbu/CustomSections-23 target=_blank> Custom sections</a> - a fork of JUEK and Maholito
 
-<a href=https://github.com/gtbu/Colorbox-Extender-26 Colorbox - Extender s</a> - a fork of JUEK
+<a href=https://github.com/gtbu/Colorbox-Extender-26 target=_blank>Colorbox - Extender </a> - a fork of JUEK
 
 <a href=https://github.com/gtbu/OtherPageLangs-25 target=_blank> OtherPageLangs</a> - a fork of JUEK
 
